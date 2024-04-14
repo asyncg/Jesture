@@ -1,1 +1,5 @@
+# ruff(https://github.com/astral-sh/ruff) cache/config(s)
+.ruff_cache
+.ruff.toml
+
 __pycache__
